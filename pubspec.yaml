@@ -1,0 +1,13 @@
+name: better_enum
+description: Package that provides a better way (java-like) to write enums
+version: 0.0.1
+repository: https://github.com/Mai-Lapyst/dart_better_enum
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dev_dependencies:
+  test: ^1.15.2
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
